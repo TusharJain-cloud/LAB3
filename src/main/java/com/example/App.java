@@ -10,7 +10,7 @@ import com.example.Calculator;
 public class App {
     public static void main(String[] args) {
         // Create an instance of the Calculator
-        Calculator calculator = new Calculator();
+        //Calculator calculator = new Calculator();
 
         // Perform some calculations
         int sum = calculator.add(5, 3);
